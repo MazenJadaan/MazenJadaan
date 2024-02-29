@@ -50,7 +50,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Mazenjadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mazen-jadaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazen-jadaan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mazen-jadaan-9b8b671bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazen-jadaan" height="30" width="40" /></a>
 <a href="https://instagram.com/mazen_jad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mazen_jad" height="30" width="40" /></a>
 </p>
 
