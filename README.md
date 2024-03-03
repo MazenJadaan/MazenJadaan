@@ -7,6 +7,9 @@
 - 💬 Ask me about Laravel, PHP, Java, JavaScript, Web Development, API
 - 📫 How to reach me: mazendev28@gmail.com
 - 🎨 Writing articles about Laravel framework on Linkedin [Linkedin](https://www.linkedin.com/in/mazen-jadaan-9b8b671bb/)
+<p align="center">
+  <img src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" alt="Coding gif">
+</p>
 
 ![Mazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MazenJadaan&show_icons=true&theme=merko)
 
